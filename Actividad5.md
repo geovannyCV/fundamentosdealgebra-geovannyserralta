@@ -5,3 +5,5 @@ tarea 1
 ![](./hoja4.jpg)
 ![](./hoja5.jpg)
 ![](./hoja6.jpg)
+tarea de 73 a 102 hexadecimales 
+![](./trabajodealgebra73a102.png)
